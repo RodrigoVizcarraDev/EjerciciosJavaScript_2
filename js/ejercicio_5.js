@@ -32,6 +32,7 @@ while(confirmacioUsuario){
     confirmacioUsuario = confirm("Clik en 'Aceptar' para ingresar su DNI o 'Cancelar' para salir del programa");
 
     if(confirmacioUsuario === false){
+        alert("Salió del programa");
         break;
     }else{
 
