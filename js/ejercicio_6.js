@@ -13,7 +13,7 @@ Cuando el bucle externo completa una iteración y comienza la siguiente, el valo
 
 */
 
-for(let contador = 1; contador <= 10; contador++){
+for(let contador = 1; contador <= 30; contador++){
     
     let impresion = "";
     for(let contador2 = 1; contador2 <= contador; contador2++){
