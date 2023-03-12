@@ -18,7 +18,7 @@ for(let contador = 1; contador <= 30; contador++){
     let impresion = "";
     for(let contador2 = 1; contador2 <= contador; contador2++){
         impresion = impresion + contador;
-        
+
     }
     document.write(`${impresion} <br>`);
     
